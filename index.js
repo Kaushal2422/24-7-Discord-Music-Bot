@@ -64,6 +64,6 @@ setInterval(async function() {
   }
 }, 20000);
 
-client.login(TOKEN) //Login
+client.login(ODYxMjMyMTg0Mjc0MDU5MjY2.YOGy-Q.yhX5xIRAmh8op_QqoY6QG4icKNk) //Login
 
 process.on('unhandledRejection', console.error);
